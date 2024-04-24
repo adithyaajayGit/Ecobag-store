@@ -146,7 +146,7 @@
                                         </ul>
                                     </li>
                                     <li><a href="category_view.php">Shop</a></li>
-                                    <!-- <li><a href="login.php">Checkout</a></li> -->
+                                    <li><a href="login.php">Checkout</a></li>
                                     <!-- <li><a href="orderview.php">Checkout</a></li> -->
                                     <!-- <li><a href="portfolio.html">Portfolio</a></li> -->
                                     <li><a href="contact.php">Contact</a></li>
